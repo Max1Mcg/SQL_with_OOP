@@ -3,6 +3,8 @@
 #include"Pilot.h"
 #include"Infantryman.h"
 #include"Army.h"
+
+//вспомогательная структура для хранения нужного типа
 struct Type
 {
 	Sailor* obj1;

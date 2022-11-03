@@ -1,5 +1,7 @@
 #pragma once
 #include"Army.h"
+
+//класс-наследник воздушных войск, реализующий свои ранги
 class AerospaceForces : public Army
 {
 protected:

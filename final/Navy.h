@@ -1,5 +1,7 @@
 #pragma once
 #include"Army.h"
+
+//абстрактный класс для описания рангов ВМФ
 class Navy : public Army
 {
 protected:

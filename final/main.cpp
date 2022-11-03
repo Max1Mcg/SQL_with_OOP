@@ -19,12 +19,16 @@
 #include"Pilot.h"
 #include"System.h"
 using namespace std;
+
+//вывод истории запросов
 void show_requests(const vector<int>& requests) {
     cout << "Все запросы в хронологическом порядке" << endl;
     for (auto iter = requests.begin(); iter != requests.end(); iter++) {
         cout << *iter << endl;
     }
 }
+
+//консольное меню
 void menu() {
     System system;
     bool work = true;
@@ -78,6 +82,7 @@ void menu() {
     }
 }
 
+//точка входа в программу
 int main()
 {
     SetConsoleCP(1251);

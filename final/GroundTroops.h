@@ -1,5 +1,7 @@
 #pragma once
 #include"Army.h"
+
+//класс-наследник сухопутных войск со своей системой рангов
 class GroundTroops : public Army
 {
 protected:
