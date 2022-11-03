@@ -1,12 +1,21 @@
 Данное консольное приложение было написано с целью продемонстрировать как можно самостоятельно реализовать БД и весь её функционал для предметной области "Армия", структура классов которой показана ниже.
+
 ![image](https://user-images.githubusercontent.com/80580481/199728759-11b9ee6e-192e-4d44-b00f-e41f7ef2bae4.png)
 Сначала нужно самостоятельно инициализировать БД, а затем уже выполнять с ней какие-либо действия. Пример работы приложение представлен также скриншотами ниже.
-Добавление человека - ![image](https://user-images.githubusercontent.com/80580481/199729566-9891aac3-3839-426c-a3c2-91ac67167f43.png)
-Продолжение добавляния - ![image](https://user-images.githubusercontent.com/80580481/199729704-3d5d087e-e801-4b07-a0e4-e5c2eecebecd.png)
-Продолжение добавления - ![image](https://user-images.githubusercontent.com/80580481/199729768-effe2e6e-1472-47e6-9b9f-a62579fce40c.png)
-Различные примеры действий с введенными элементами БД - ![image](https://user-images.githubusercontent.com/80580481/199729845-6f16ac4c-ff2a-4b0d-9e94-d5a68191a73b.png)
-Продолжение демонстрации примера работы с нашей системой - ![image](https://user-images.githubusercontent.com/80580481/199729926-80ba3bba-e42d-4d59-9496-2879a97b27f2.png)
-Продолжение демонстрации примера работы с нашей системой -  ![image](https://user-images.githubusercontent.com/80580481/199730000-f21bd822-fe4c-467a-87b4-d9a42661edb1.png)
-Продолжение демонстрации примера работы с нашей системой - ![image](https://user-images.githubusercontent.com/80580481/199730049-a67ebdae-c06c-40c1-b130-23b7b4277546.png)
-Продолжение демонстрации примера работы с нашей системой - ![image](https://user-images.githubusercontent.com/80580481/199730113-5012b738-aad5-44e6-b575-64e61f3e2587.png)
+Добавление человека - 
+![image](https://user-images.githubusercontent.com/80580481/199729566-9891aac3-3839-426c-a3c2-91ac67167f43.png)
+Продолжение добавляния - 
+![image](https://user-images.githubusercontent.com/80580481/199729704-3d5d087e-e801-4b07-a0e4-e5c2eecebecd.png)
+Продолжение добавления - 
+![image](https://user-images.githubusercontent.com/80580481/199729768-effe2e6e-1472-47e6-9b9f-a62579fce40c.png)
+Различные примеры действий с введенными элементами БД - 
+![image](https://user-images.githubusercontent.com/80580481/199729845-6f16ac4c-ff2a-4b0d-9e94-d5a68191a73b.png)
+Продолжение демонстрации примера работы с нашей системой - 
+![image](https://user-images.githubusercontent.com/80580481/199729926-80ba3bba-e42d-4d59-9496-2879a97b27f2.png)
+Продолжение демонстрации примера работы с нашей системой -  
+![image](https://user-images.githubusercontent.com/80580481/199730000-f21bd822-fe4c-467a-87b4-d9a42661edb1.png)
+Продолжение демонстрации примера работы с нашей системой - 
+![image](https://user-images.githubusercontent.com/80580481/199730049-a67ebdae-c06c-40c1-b130-23b7b4277546.png)
+Продолжение демонстрации примера работы с нашей системой - 
+![image](https://user-images.githubusercontent.com/80580481/199730113-5012b738-aad5-44e6-b575-64e61f3e2587.png)
 Мы считаем скриншоты намного более понятными, чем текстовое описание, поэтому прилагаем именно их.
